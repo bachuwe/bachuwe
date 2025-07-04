@@ -26,7 +26,7 @@ I'm passionate about **Software Engineering**, **Full-Stack Development**, and *
 - ☕ Java  
 - 🐍 Python  
 - 🐘 PHP
--   MariaDB
+- 🐬 MariaDB
 
 ---
 
