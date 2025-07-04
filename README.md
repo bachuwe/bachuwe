@@ -1,6 +1,6 @@
 # 👋 Hi there, Welcome!
 
-[banner](https://github.com/user-attachments/assets/45d89de0-1ae3-4e5f-9631-a5691bcb3f82)
+![banner](https://github.com/user-attachments/assets/45d89de0-1ae3-4e5f-9631-a5691bcb3f82)
 
 Hello! 👨‍💻 My name is **Cosmas Awupuri Ayikem**.  
 I'm a BSc. Information Technology student at **University of Ghana, Legon** 🎓  
